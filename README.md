@@ -27,7 +27,7 @@ rhc create-app [MYAPP] https://raw.github.com/jboss-datavirtualization/openshift
 ```
 
 When the installation completes, you will be presented with a list of generated users and passwords similar to the screencap below.  Make sure you save them!
-![installation users](https://github.com/jboss-datavirtualization/openshift-cartridge-datavirtualization/raw/6.0.0/InstallationUsers.png)
+![installation users](https://github.com/jboss-datavirtualization/openshift-cartridge-datavirtualization/raw/master/InstallationUsers.png)
 
 ## Getting started with Data Virtualization
 After the cartridge finishes deployment, enter this address to verify success
